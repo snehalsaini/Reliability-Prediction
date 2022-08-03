@@ -13,9 +13,9 @@ NOTE: For keeping the calculation in the minimum ranges, both the column values 
 
 Code: The code was originally written in GNU Octave
 
-# STEP1: Visualizing the Data
-# STEP2: Computing the cost 
-# STEP3: Using Gradient Descent to minimize the Cost Function
-# STEP4: Plotting the hypothesis function wrt given dataset****
-# STEP5: Prediction
-# STEP6: Visualizing the cost function
+## STEP1: Visualizing the Data
+## STEP2: Computing the cost 
+## STEP3: Using Gradient Descent to minimize the Cost Function
+## STEP4: Plotting the hypothesis function wrt given dataset****
+## STEP5: Prediction
+## STEP6: Visualizing the cost function
